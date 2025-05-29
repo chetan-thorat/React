@@ -1,0 +1,58 @@
+1st year => 67.3%
+874.9/1300
+
+2nd year => 85.4%
+1195.6/1400
+
+3rd year => 86.48%
+1210.72/1400
+
+4th year => 81.80%
+1145.2/1400
+
+
+CGPA - 8.71 ==> 79.52%
+---------------------------------------
+10th     409/500
+81.80
+
+12th    412/650
+63.38
+---------------------------------------
+THORAT CHETAN NARENDRA
+-----------------------------------
+BWAPT6744D
+----------------------------------
+745157072357
+----------------------------------
+250245920020 === PRN No.
+--------------------------------
+PROJECT
+title = Online-book-donation-website
+PRoject repo = https://github.com/chetan-thorat/Online-book-donation-website.git
+
+Project Title:
+Online Book Donation Website
+
+Project Description:
+The Online Book Donation Website is a full-stack web application designed to streamline the process of donating and receiving books across different locations. It serves as a digital platform where individuals, organizations, and institutions can donate used or new books, and underprivileged users or NGOs can request or receive them. The project emphasizes convenience, sustainability, and community engagement.
+
+The platform consists of a responsive and user-friendly front end developed using ReactJS, backed by a robust and scalable .NET Core API for business logic. MongoDB is used for efficient storage of book data, user profiles, and transaction histories. To ensure high availability and scalability, the application is deployed on AWS, utilizing services such as EC2, S3, RDS, and Lambda (optional) for backend automation and media handling.
+----------------------------------------------------------
+
+Certification
+1. https://www.linkedin.com/learning/certificates/4f0f57a35ee0ab595912d7d49e1c24b6bc3730cec977c150062d4e86ebb0f980
+2.https://www.coursera.org/account/accomplishments/verify/NARPWBA397HR
+3.https://www.coursera.org/account/accomplishments/verify/HXAPVF8E6LQD
+4.https://www.theforage.com/login?ref=bkYh5Eu9dKaosYYeN
+5.https://www.coursera.org/account/accomplishments/certificate/T2UVTRC8ADFR
+6.https://www.credly.com/badges/8485979b-bd9e-43d1-b587-d9d531ed8015/public_url
+7.https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/J.P.%20Morgan/R5iK7HMxJGBgaSbvk_J.P.%20Morgan_bkYh5Eu9dKaosYYeN_1719077155826_completion_certificate.pdf
+
+-----------------------------------------------------------------
+skills
+
+
+Python, JAVA, SQL, RDBMS, HTML, CSS, JavaScript, MongoDB, ,Cloud Computing, Amazon Web Services (AWS), Containerization, Docker, Django, WordPress, Database Management, Data Structure and Algorithms, Microsoft Office Suits,
+
+
